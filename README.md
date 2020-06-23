@@ -71,4 +71,4 @@ nasa_apod.convert_image(image)
 ```
 
 for any other queries contact me on GitHub or my email.
-please let me know if you built something with it, i would be very happy 😊
+please let me know if you built something with it, I would be very happy 😊
