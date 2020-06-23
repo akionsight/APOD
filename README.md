@@ -59,7 +59,7 @@ date = nasa_apod.get_hdurl(data)
 there are also other functions that might help you in situations
 
 ### download_image
-the `download_image` finction takes the url (hdurl or url) and the date from the function `get_date` and downloades the image in the current directory and with the file name of the date. the image downloaded is in the .jpg format
+the `download_image` finction takes the url (hdurl or url) and the date from the function `get_date` and downloads the image in the current directory and with the file name of the date. the image downloaded is in the .jpg format
 ```python
 nasa_apod.download_image(url, date)
 ```
