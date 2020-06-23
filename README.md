@@ -15,7 +15,7 @@ from APOD import nasa_apod
 2. Now call the `get_data` function and pass the `nasa api key` as the argument. Note api_key is a string. The data returned will be a Dictionary. Now you can parse the dictionary too
 
 ```python 
-data = nasa_apod.get_data('kxwEeeUyTKJktpTbrDm8oUDIMrON0tcS4RJQP8cF')
+data = nasa_apod.get_data(<your_api_key>)
 ```
 ### get_date
 
