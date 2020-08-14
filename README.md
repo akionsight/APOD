@@ -6,7 +6,7 @@ for Windows:- `pip install -r requiremnts.txt`
 
 for MacOs:- `pip3 install -r requirements.txt`
 
-Also get a Nasa api key by clicking here [here](https://api.nasa.gov/#signUp).
+Also get a Nasa api key by clicking [here](https://api.nasa.gov/#signUp).
 ## How to use (Do Not skip)
 1. import the file
 ```python
