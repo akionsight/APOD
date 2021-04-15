@@ -1,5 +1,6 @@
-# APOD
-Get and easily parse the APOD (Astronomy Picture Of The Day) from the NASA open API
+<img src="https://github.com/RajvirSingh1313/APOD/blob/master/banner.png" />
+<h1 align="center">APOD</h1>
+<h3 align="center">Get and easily parse the APOD (Astronomy Picture Of The Day) from the NASA open API</h3>
 
 ## Dependency Installation
 for Windows:- `pip install -r requiremnts.txt`
